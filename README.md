@@ -21,6 +21,19 @@ if media >= 7.0:
 else: 
      print ("Status: REPROVADO!")
 
-Exemplo de saída
+Exemplos de saída:
+
+=== Sistema de Notas do Aluno ===
+Digite a primeira nota: 5
+Digite a segunda nota:6
+A média final é: 5.50
+Status: REPROVADO!
+
+=== Sistema de Notas do Aluno ===
+Digite a primeira nota: 10
+Digite a segunda nota:6
+A média final é: 8.00
+Status: APROVADO!
+
 ```
 ***
